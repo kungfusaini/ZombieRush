@@ -1,7 +1,7 @@
 Zombie Rush
 =================================
 
-This is a flappy bird clone built in Unity. 
+This is a flappy bird clone built in Unity, built for iOS. 
 
 This project expands upon my previous game. It has better use of textures, sound effect and music and scripts applied to objects.
 
